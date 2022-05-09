@@ -1,6 +1,6 @@
 # Crash Detectives
 
-![Crash Test Dummy](/images/crash test dummies.jpg)
+![Crash Test Dummy](/images/crash_test_dummy.jpg)
 
 ## Overview
 
