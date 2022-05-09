@@ -1,5 +1,7 @@
 # Crash Detectives
 
+![Crash Test Dummy](/images/crash test dummies.jpg)
+
 ## Overview
 
 ## Research Topic 
