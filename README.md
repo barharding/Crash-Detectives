@@ -23,7 +23,7 @@ The Crash-Detectives team channel has been set up to enable chat communications 
 Each of the team members is assigned one of the fore roles as defined in module 20.  A summary of the role responsibilites can be found [here](https://github.com/barharding/Crash-Detectives/blob/main/images/roles_responsibilities.png).
 
 ## Project Team Members
-Aditi
-Bardhonia
-Kritika
-Richelle
+- Aditi
+- Bardhonia
+- Kritika
+- Richelle
