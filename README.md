@@ -19,4 +19,4 @@ The team agrees to meet three times per week on Monday and Wednesday from 7pm-9p
 
 The Crash-Detectives team channel has been set up to enable chat communications between team members.
 
-### Project Team Members
+## Project Team Members
