@@ -20,6 +20,10 @@ The team agrees to meet three times per week on Monday and Wednesday from 7pm-9p
 The Crash-Detectives team channel has been set up to enable chat communications between team members.
 
 ## Roles & Responsibilities
-Each of the team members is assigned one of the frou roles as defined in module 20.  A synopis of role responsibilites can be found [here](https://github.com/barharding/Crash-Detectives/blob/main/images/roles_responsibilities.png).
+Each of the team members is assigned one of the fore roles as defined in module 20.  A summary of the role responsibilites can be found [here](https://github.com/barharding/Crash-Detectives/blob/main/images/roles_responsibilities.png).
 
 ## Project Team Members
+Aditi
+Bardhonia
+Kritika
+Richelle
