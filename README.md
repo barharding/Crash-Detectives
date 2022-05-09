@@ -1,12 +1,13 @@
-# Crash-Detectives
+# Crash Detectives
 
-## Topic 
+## Overview
 
-## Reason for this Topic 
+## Research Topic 
 
-## Data Source Description
+### Goal & Questions to be answered
 
-##  Questions to be answered
+### Data Source Description
+
 
 ## Communication Protocols
 
