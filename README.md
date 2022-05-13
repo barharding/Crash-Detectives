@@ -28,7 +28,7 @@ The team agrees to meet three times per week on Monday and Wednesday from 7pm-9p
 #### Adhoc Meetings
 All other meetings will be scheduled on an adhoc basis when required and agreed to by all participants.  A Teams meeting will be arranged for these sessions.
 
-### Messaging Channel
+#### Messaging Channel
 
 The Crash-Detectives team channel has been set up to enable chat communications between team members.
 
