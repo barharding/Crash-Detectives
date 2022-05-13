@@ -3,10 +3,17 @@
 ![Crash Test Dummy](images/crash_test_banner.jpg)
 
 ## Overview
+The purpose of this project is to explore an overall analysis of the City of Toronto serious injury or fatal accident data and the impact of red light cameras on reducing severity.
 
 ## Research Topic 
 
 ### Goal & Questions to be answered
+The goal of this analysis is to provide the Toronto Police, City Planners, and general public insights on the effectivnes and impact of the redlight camera program on crash severity.
+
+The null hypothesis is that redlight cameras on have no impact on crash severity.  The alternate hypothesis is redlight cameras reduce accident serverity.
+
+Leveraging the Toronto Police traffic collision data and serious injury data sets additional areas of inquiry includes researching what additional features are correleated with severe accidents such as roadway types, light conditions, wet or dry roads, and time of day.
+
 
 ### Data Source Description
 
