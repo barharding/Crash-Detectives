@@ -19,18 +19,11 @@ Leveraging the Toronto Police traffic collision data and serious injury data set
 
 The dataset is used for this analysis is from the City of Toronto's Open Data Portal.  
 
-The traffic colision file provides a history of all accidents in the City of Toronto which includes the geocoorindates for the nearest intersection, data and time of the collision, policde division, neighbourhood as well as if there were any fatalities.
+The traffic colision file provides a history of all accidents in the City of Toronto which includes the geocoorindates for the nearest intersection, data and time of the collision, policde division, neighbourhood as well as if there were any fatalities.  The seriously injured or killed file is a rich data source describing the physical characteristics at the scene of the accident such as road type, road surface conditions, details regarding all people involved in the accident including age, etc...  The Red light file provides the date of activation for when red light cameras were installed and the location.  All three files provide geo location coordinates.
 
-The seriously injured or killed file is a rich data source describing the physical characteristics at the scene of the accident such as road type, road surface conditions, details regarding all people involved in the accident including age, etc...
-
-The Red light file provides the date of activation for when red light cameras were installed and the location.  
-
-All three files provide geo location coordinates.
-
-- Traffic collision data : [Dataset 3](https://open.toronto.ca/dataset/police-annual-statistical-report-traffic-collisions/) 
 - Seriously injured/killed collisions data : [Dataset 1](https://open.toronto.ca/dataset/motor-vehicle-collisions-involving-killed-or-seriously-injured-persons/)
 - Red light cameras data : [Dataset 2](https://open.toronto.ca/dataset/red-light-cameras/)
-
+- Traffic collision data : [Dataset 3](https://open.toronto.ca/dataset/police-annual-statistical-report-traffic-collisions/) 
 
 ## Machine Learning
 In our machine leaning approach, we will be using classification models, random forest and gradient boosting.
