@@ -1,0 +1,11 @@
+﻿ROAD_CLASS_ID,ROAD_CLASS
+1,Major Arterial
+2,Collector
+3,Minor Arterial
+4,Local
+5,Other
+6,Pending
+7,Laneway
+8,Expressway
+9,Expressway Ramp
+10,Major Arterial Ramp
