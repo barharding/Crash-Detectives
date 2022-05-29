@@ -34,6 +34,11 @@ As we know where the cameras are already installed, we will use the factors of t
 ### Gradient Boosting
 As major and more severe collisions occur infrequently compared to the whole scope of collisions, the model we build may hold some form of bias and skewness. In other words, the random forest may produce predictions solely on the factors that affect minor collisions. This would mean the false negatives could be locations where major accidents had occurred, and the camera could be impacting such collisions. Thus, we will also test and employ gradient boosting. Gradient boosting will weight the observations and put more weight on the major collisions and less on minor collisions as they will already be handled well during training. This should reduce the bias and skewness of the model. 
 
+## Initial ML Results
+
+![ML Results Summary](images/ML_Steps.png)
+
+
 ### Database
 
 We will be storing our data in Postgres.
