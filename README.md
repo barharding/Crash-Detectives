@@ -41,6 +41,10 @@ At present, we have created the ERD conceptual diagram for our database. But the
 For Primary key and Foriegn key, we didn't decide on that because out of four, only two tables has ACCNUM (accident number) column in common. 
 We are planning to create the relation in between the table based on their Geo location beacuse all the tables have geometry column in common.
    
+### Dashboard
+
+The storyboard is shown as a preview in the presentation. </br>
+The dashboard is located [here](https://public.tableau.com/views/Roadaccidents_Toronto_viz/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Communication Protocols
 
