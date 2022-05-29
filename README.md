@@ -26,17 +26,12 @@ The traffic colision file provides a history of all accidents in the City of Tor
 - Traffic collision data : [Dataset 3](https://open.toronto.ca/dataset/police-annual-statistical-report-traffic-collisions/) 
 
 ## Machine Learning
-In our machine leaning approach, we will be using classification models, **random forest** and **gradient boosting**.
+In our machine leaning approach, we will be using classification models, random forest and gradient boosting, details can be found [here](https://github.com/barharding/Crash-Detectives/blob/main/ML%20Notebooks/README.md)
 
-### Random Forest
-As we know where the cameras are already installed, we will use the factors of the accidents at those locations to train our model to predict the location of red-light cameras based on the factors of traffic accidents. As there are many factors that affects a collision in an intersection, using a random forest enables feature randomness when building individual trees, to which the forest will make a more accurate prediction by committee. 
 
-### Gradient Boosting
-As major and more severe collisions occur infrequently compared to the whole scope of collisions, the model we build may hold some form of bias and skewness. In other words, the random forest may produce predictions solely on the factors that affect minor collisions. This would mean the false negatives could be locations where major accidents had occurred, and the camera could be impacting such collisions. Thus, we will also test and employ gradient boosting. Gradient boosting will weight the observations and put more weight on the major collisions and less on minor collisions as they will already be handled well during training. This should reduce the bias and skewness of the model. 
+### Initial ML Results
 
-## Initial ML Results
-
-![ML Results Summary](images/ML_Steps.png)
+![ML Results Summary](images/ML_Steps1.png)
 
 
 ### Database
@@ -45,11 +40,6 @@ We will be storing our data in Postgres.
 At present, we have created the ERD conceptual diagram for our database. But their is no releationship in those four columns. We did not force the relationship between the tables.
 For Primary key and Foriegn key, we didn't decide on that because out of four, only two tables has ACCNUM (accident number) column in common. 
 We are planning to create the relation in between the table based on their Geo location beacuse all the tables have geometry column in common.
-
-### Dashboard
-
-The storyboard is shown as a preview in the presentation. </br>
-The dashboard is located [here](https://public.tableau.com/views/Roadaccidents_Toronto_viz/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
    
 
 ## Communication Protocols
