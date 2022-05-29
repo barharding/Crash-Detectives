@@ -9,10 +9,12 @@ As major and more severe collisions occur infrequently compared to the whole sco
 
 ## Initial ML Results
 
-![Step 1](images/step_1.png)
+![ML Results Summary](../images/ML_Steps.png)
 
-![Step 2](images/step_2.png)
+![Step 1](../images/step_1.png)
 
-![Step 3 & 4](images/step_3_4.png)
+![Step 2](../images/step_2.png)
 
-![Step 5](images/step_5.png)
+![Step 3 & 4](../images/step_3_4.png)
+
+![Step 5](../images/step_5.png)
