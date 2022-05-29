@@ -43,16 +43,30 @@ Steps involved in EDA:
 ----
 We got Latitude and Longitudes in geojson form, so using RegEX get the Latitudes and Longitudes in different columns. 
 
+![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/lat_long.PNG)
+
 We have ACCNUM column value in wrong format. Truncated characters and change data type to int.
+
+![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/ACCNUM.png)
 
 We get rid of the columns that has not very useful or very less data. We changed the datatypes of few columns (like:Date, Latitudes and Longitudes). WE created new columns to get Month and Days of week in separate columns.
 
 I have created Heatmaps to show the Accidents (based on Red Light Cameras) by week for each month from 2014-2020
 
+![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Heat_Map_With_Without_Camera.png)
+
 I also built maps using Leaflet to show 
 	-Red Light Camera locations in Toronto.
+	
+	![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Red_Light_Camera_Coordinates.PNG)
+	
 	-Locations of Accidents with Red Light Camera Intersections
+	
+	![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Accidents_in_Red%20Light_Camera_area.PNG)
+	
 	-Locations Of Accidents without Red Light Camera Intersections
+	
+	![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Accidents_Without_Camera_.PNG)
 
 There were challenges in building the correlation graphs as we don't have numerical data in our database so used Matplotlib,seaborn (in heatmaps) and leaflet to show the visualizations for other factors causing accidents.
 
