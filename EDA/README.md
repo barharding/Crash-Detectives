@@ -58,15 +58,15 @@ I have created Heatmaps to show the Accidents (based on Red Light Cameras) by we
 I also built maps using Leaflet to show 
 	-Red Light Camera locations in Toronto.
 	
-	![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Red_Light_Camera_Coordinates.PNG)
+![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Red_Light_Camera_Coordinates.PNG)
 	
 	-Locations of Accidents with Red Light Camera Intersections
 	
-	![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Accidents_in_Red%20Light_Camera_area.PNG)
+![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Accidents_in_Red%20Light_Camera_area.PNG)
 	
 	-Locations Of Accidents without Red Light Camera Intersections
 	
-	![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Accidents_Without_Camera_.PNG)
+![](https://github.com/barharding/Crash-Detectives/blob/main/EDA/Resources/Images/Accidents_Without_Camera_.PNG)
 
 There were challenges in building the correlation graphs as we don't have numerical data in our database so used Matplotlib,seaborn (in heatmaps) and leaflet to show the visualizations for other factors causing accidents.
 
