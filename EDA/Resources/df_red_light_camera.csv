@@ -1,0 +1,215 @@
+ACTIVATION_DATE,NAME,DISTRICT,RLC,Longitude,Latitude,Month,Year
+2007-11-09,Richmond St E And Parliament St,Toronto and East York,6001,-79.364,43.6545,November,2007
+2007-11-09,Lake Shore Blvd W And York St,Toronto and East York,6002,-79.3808,43.6414,November,2007
+2007-11-09,Steeles Ave W And Carpenter Rd / Private Access @ Shopping Centre,North York,6003,-79.4475,43.792,November,2007
+2007-11-09,Steeles Ave W And Hilda Ave,North York,6004,-79.4292,43.796,November,2007
+2007-11-09,Albion Rd And Silverstone Dr,Etobicoke York,6005,-79.6,43.7429,November,2007
+2008-03-18,Dixon Rd And Kipling Ave,Etobicoke York,6007,-79.5586,43.6942,March,2008
+2008-10-28,Steeles Ave W And Islington Ave,Etobicoke York,6008,-79.5748,43.7643,October,2008
+2009-03-17,Sheppard Ave W And Wilson Heights Blvd,North York,6009,-79.4567,43.7516,March,2009
+2007-11-09,Bathurst St And Sheppard Ave W,North York,6010,-79.4384,43.7554,November,2007
+2008-03-19,Lawrence Ave W And Marlee Ave / Private Access @ Lawrence Square Access,North York,6011,-79.4465,43.7156,March,2008
+2008-08-11,Bathurst St And Lawrence Ave W,North York,6012,-79.4298,43.7192,August,2008
+2009-03-17,Bayview Ave And Cummer Ave,North York,6013,-79.3935,43.7922,March,2009
+2008-05-29,Leslie St And Lawrence Ave E,North York,6015,-79.3559,43.7345,May,2008
+2009-08-05,Leslie St And York Mills Rd,North York,6016,-79.3599,43.7529,August,2009
+2008-03-31,Bayview Ave And Truman Rd / Fifeshire Rd,North York,6017,-79.3866,43.7605,March,2008
+2008-10-09,Midland Ave And Mcnicoll Ave,Scarborough,6018,-79.2922,43.8145,October,2008
+2009-03-17,Steeles Ave E And Birchmount Rd,Scarborough,6019,-79.3169,43.8213,March,2009
+2008-08-11,Warden Ave And Arkona Dr / Cloverleaf Gt,Scarborough,6020,-79.3053,43.773,August,2008
+2008-05-29,Steeles Ave E And Brimley Rd,Scarborough,6021,-79.2872,43.8282,May,2008
+2008-08-11,College St And Bathurst St,Toronto and East York,6022,-79.4077,43.6564,August,2008
+2008-08-11,Morningside Ave And Lawrence Ave E,Scarborough,6023,-79.1862,43.7684,August,2008
+2009-03-19,Dixon Rd And Carlingview Dr,Etobicoke York,6024,-79.5955,43.6867,March,2009
+2009-03-19,Dufferin St And Glencairn Ave,North York,6025,-79.4531,43.7069,March,2009
+2008-10-29,Overlea Blvd And Thorncliffe Park Dr,North York,6026,-79.3436,43.7074,October,2008
+2008-03-28,Kennedy Rd And Ellesmere Rd,Scarborough,6027,-79.281,43.7658,March,2008
+2008-10-21,Leslie St And Finch Ave E,North York,6028,-79.368,43.79,October,2008
+2009-03-17,Birchmount Rd And Huntingwood Dr,Scarborough,6029,-79.3022,43.7904,March,2009
+2008-03-18,Kingston Rd And Port Union Rd / Sheppard Ave E,Scarborough,6030,-79.1462,43.7989,March,2008
+2009-03-19,Bloor St W And The West Mall,Etobicoke York,6031,-79.5623,43.6356,March,2009
+2008-11-20,The Queensway And The West Mall,Etobicoke York,6032,-79.5626,43.6123,November,2008
+2009-03-19,Lake Shore Blvd W And Thirty Seventh St / Private Access,Etobicoke York,6033,-79.5381,43.5933,March,2009
+2008-03-19,Kipling Ave And Horner Ave,Etobicoke York,6034,-79.5207,43.6072,March,2008
+2009-04-02,The Queensway And North Queen St / Private Access @ Sherway Gardens,Etobicoke York,6035,-79.5561,43.6142,April,2009
+2009-08-21,Wilson Ave And Transit Rd / Billy Bishop Way,North York,6036,-79.4528,43.7333,August,2009
+2008-05-29,Lake Shore Blvd W And Windermere Ave / Private Access,Toronto and East York,6037,-79.4681,43.6351,May,2008
+2009-03-17,Warden Ave And Mcnicoll Ave,Scarborough,6038,-79.3209,43.8063,March,2009
+2008-05-29,Keele St And Wilson Ave,North York,6039,-79.482,43.7266,May,2008
+2008-03-26,Lansdowne Ave And Dupont St,Toronto and East York,6040,-79.4464,43.6667,March,2008
+2009-01-21,Queen St W And Lansdowne Ave / Jameson Ave,Toronto and East York,6041,-79.4369,43.6405,January,2009
+2008-03-26,Burnhamthorpe Rd And The East Mall,Etobicoke York,6042,-79.5599,43.6463,March,2008
+2009-03-17,Keele St And Sheppard Ave W,North York,6043,-79.4864,43.7447,March,2009
+2008-05-16,Jane St And Bala Ave / Emmett Ave,Etobicoke York,6045,-79.5006,43.6901,May,2008
+2008-10-09,Jane St And Clair Rd / Spenvalley Dr,Etobicoke York,6046,-79.5136,43.7412,October,2008
+2008-08-11,O Connor Dr And Bermondsey Rd / Yardley Ave,Toronto and East York,6047,-79.3074,43.7124,August,2008
+2009-04-01,Danforth Ave And Birchmount Rd,Scarborough,6048,-79.2639,43.6969,April,2009
+2008-12-10,Islington Ave And The Westway,Etobicoke York,6049,-79.5428,43.6886,December,2008
+2009-03-18,Bathurst St And Davenport Rd,Toronto and East York,6050,-79.4157,43.6767,March,2009
+2008-10-28,Warden Ave And Comstock Rd,Scarborough,6051,-79.2849,43.7215,October,2008
+2009-08-13,Eastern Ave And Lower Coxwell Ave,Toronto and East York,6053,-79.3162,43.6654,August,2009
+2009-04-16,Midland Ave And Progress Ave,Scarborough,6055,-79.2729,43.7729,April,2009
+2009-04-01,Lawrence Ave E And Bellamy Rd N,Scarborough,6056,-79.2352,43.7577,April,2009
+2010-02-25,Danforth Rd And Birchmount Rd,Scarborough,6058,-79.2681,43.7069,February,2010
+2009-08-21,St Clair Ave E And Brimley Rd,Scarborough,6059,-79.2414,43.7208,August,2009
+2009-03-19,Keele St And Lawrence Ave W,Etobicoke York,6060,-79.478,43.7086,March,2009
+2011-11-22,Bloor St W And Ossington Ave,Toronto and East York,6061,-79.4256,43.6619,November,2011
+2010-01-07,Danforth Ave And Greenwood Ave,Toronto and East York,6062,-79.3323,43.6814,January,2010
+2009-08-06,Queen St E And Woodbine Ave,Toronto and East York,6063,-79.3057,43.6687,August,2009
+2009-08-06,King St E And Jarvis St,Toronto and East York,6064,-79.3719,43.6504,August,2009
+2009-08-06,Lake Shore Blvd E And Leslie St,Toronto and East York,6065,-79.3284,43.6592,August,2009
+2009-08-06,Lower Jarvis St And The Esplanade,Toronto and East York,6066,-79.3709,43.6482,August,2009
+2009-08-06,Lake Shore Blvd E And Carlaw Ave,Toronto and East York,6067,-79.3374,43.6549,August,2009
+2009-09-08,Rogers Rd And Keele St,Etobicoke York,6068,-79.4715,43.6821,September,2009
+2009-08-11,Dundas St W And Bloor St W,Toronto and East York,6069,-79.4524,43.6563,August,2009
+2009-08-05,Yonge St And Lawrence Ave,North York,6070,-79.4021,43.7251,August,2009
+2010-01-07,Eglinton Ave W And Spadina Rd,North York,6072,-79.4191,43.7023,January,2010
+2009-09-10,Lawrence Ave E And Don Mills Rd,North York,6074,-79.3434,43.7371,September,2009
+2009-08-04,Neilson Rd And Sheppard Ave E,Scarborough,6075,-79.2176,43.7981,August,2009
+2009-08-04,Sheppard Ave E And Malvern St / Progress Ave,Scarborough,6076,-79.2349,43.7946,August,2009
+2009-08-05,Ellesmere Rd And Military Trl,Scarborough,6077,-79.1883,43.7865,August,2009
+2017-12-19,Kennedy Rd And 401 C E Kennedy Rd Ramp / William Kitchen Rd,Scarborough,6078,-79.2838,43.7731,December,2017
+2017-07-24,University Ave And Richmond St W,Toronto and East York,6079,-79.3862,43.65,July,2017
+2017-06-05,Adelaide St E And Parliament St,Toronto and East York,6080,-79.3635,43.6535,June,2017
+2017-10-20,University Ave And Adelaide St W,Toronto and East York,6081,-79.3855,43.6488,October,2017
+2017-07-10,Dixon Rd And Martin Grove Rd,Etobicoke York,6082,-79.5708,43.6915,July,2017
+2017-08-31,University Ave And Queen St W,Toronto and East York,6083,-79.3866,43.6508,August,2017
+2017-10-20,Keele St And Wilson Ave,North York,6084,-79.482,43.7266,October,2017
+2017-08-08,Lake Shore Blvd W And Spadina Ave / Lower Spadina Ave,Toronto and East York,6085,-79.3922,43.6384,August,2017
+2017-10-06,Lake Shore Blvd W And Park Lawn Rd / Marine Parade Dr,Etobicoke York,6086,-79.4812,43.6229,October,2017
+2017-07-14,Sheppard Ave E And Bayview Ave,North York,6087,-79.388,43.7665,July,2017
+2017-10-30,Steeles Ave W And Weston Rd,Etobicoke York,6088,-79.5465,43.7702,October,2017
+2017-03-10,Lawrence Ave E And Greencedar Crct / Greenbrae Crct,Scarborough,6089,-79.233,43.7581,March,2017
+2017-03-10,Finch Ave E And Birchmount Rd,Scarborough,6090,-79.3059,43.7989,March,2017
+2017-12-19,Bloor St W And The East Mall,Etobicoke York,6092,-79.5567,43.6369,December,2017
+2017-03-09,Wilson Ave And Jane St,Etobicoke York,6094,-79.5086,43.7209,March,2017
+2017-03-10,Warden Ave And Mcnicoll Ave,Scarborough,6095,-79.3209,43.8063,March,2017
+2017-03-10,Steeles Ave W And Keele St,Etobicoke York,6097,-79.4945,43.7815,March,2017
+2017-09-06,University Ave And Wellington St W,Toronto and East York,6098,-79.384,43.6463,September,2017
+2017-07-10,Albion Rd And Kipling Ave,Etobicoke York,6099,-79.5804,43.7397,July,2017
+2018-09-05,The Queensway And Kipling Ave,Etobicoke York,6100,-79.5267,43.6209,September,2018
+2017-11-30,Finch Ave E And Gordon Baker Rd / Finch E 404 N Ramp,North York,6101,-79.3412,43.7951,November,2017
+2017-03-13,Jarvis St And Isabella St,Toronto and East York,6102,-79.3794,43.6688,March,2017
+2017-03-10,Danforth Rd And Brimley Rd,Scarborough,6103,-79.2473,43.7351,March,2017
+2017-03-14,Mccowan Rd And Mcnicoll Ave,Scarborough,6105,-79.2719,43.8179,March,2017
+2017-07-10,St Clair Ave W And Gunns Rd / Old Stock Yards Rd @ Home Depot Entrance,Etobicoke York,6106,-79.4711,43.6717,July,2017
+2017-11-03,Spadina Ave And King St W,Toronto and East York,6107,-79.395,43.6454,November,2017
+2017-03-10,Sheppard Ave E And Mccowan Rd,Scarborough,6108,-79.2588,43.7896,March,2017
+2017-03-10,King St E And Parliament St,Toronto and East York,6109,-79.3632,43.6527,March,2017
+2017-04-11,Rexdale Blvd And Martin Grove Rd,Etobicoke York,6110,-79.5811,43.7138,April,2017
+2017-10-06,The Queensway And The East Mall,Etobicoke York,6111,-79.5462,43.6164,October,2017
+2017-07-14,St Clair Ave W And Spadina Rd,Toronto and East York,6112,-79.4111,43.6846,July,2017
+2017-06-05,Dufferin St And Finch Ave W,North York,6113,-79.4669,43.7688,June,2017
+2017-06-05,Islington Ave And Evans Ave,Etobicoke York,6114,-79.5113,43.6183,June,2017
+2017-07-10,Eglinton Ave W And Martin Grove Rd,Etobicoke York,6115,-79.5631,43.6744,July,2017
+2017-03-10,Finch Ave E And Brimley Rd,Scarborough,6116,-79.2773,43.8057,March,2017
+2017-07-10,Lake Shore Blvd W And Jameson Ave,Toronto and East York,6117,-79.4345,43.6333,July,2017
+2017-03-10,Eglinton Ave E And Danforth Rd,Scarborough,6118,-79.2461,43.737,March,2017
+2017-06-05,Neilson Rd And Mclevin Ave,Scarborough,6119,-79.2216,43.8091,June,2017
+2017-08-08,Simcoe St And Wellington St W,Toronto and East York,6120,-79.3855,43.646,August,2017
+2017-10-20,Jane St And Stong Crt / York Gate Blvd,Etobicoke York,6121,-79.5188,43.7619,October,2017
+2017-03-10,Ellesmere Rd And Bellamy Rd N,Scarborough,6122,-79.2417,43.7743,March,2017
+2017-03-10,Lawrence Ave E And Kennedy Rd,Scarborough,6123,-79.2749,43.7494,March,2017
+2017-03-10,Warden Ave And Comstock Rd,Scarborough,6124,-79.2849,43.7215,March,2017
+2017-05-03,Sheppard Ave E And Malvern St / Progress Ave,Scarborough,6125,-79.2349,43.7946,May,2017
+2017-10-20,Rexdale Blvd And Kipling Ave,Etobicoke York,6126,-79.5667,43.7117,October,2017
+2017-10-20,Weston Rd And Lawrence Ave W,Etobicoke York,6127,-79.5162,43.7001,October,2017
+2017-06-19,Islington Ave And Albion Rd,Etobicoke York,6128,-79.5653,43.7372,June,2017
+2017-08-11,Yonge St And Steeles Ave,North York,6130,-79.42,43.7979,August,2017
+2017-08-11,St Clair Ave W And Runnymede Rd,Etobicoke York,6131,-79.4835,43.6689,August,2017
+2017-03-13,Warden Ave And Ashtonbee Rd,Scarborough,6132,-79.2887,43.7307,March,2017
+2017-08-11,Keele St And Lawrence Ave W,Etobicoke York,6134,-79.478,43.7086,August,2017
+2017-08-11,Birchmount Rd And Mcnicoll Ave,Scarborough,6135,-79.3111,43.8086,August,2017
+2017-03-24,Finch Ave E And Middlefield Rd,Scarborough,6136,-79.2576,43.8098,March,2017
+2017-12-19,Dixon Rd And Islington Ave,Etobicoke York,6137,-79.5467,43.697,December,2017
+2017-09-28,Spadina Ave And Bremner Blvd / Fort York Blvd,Toronto and East York,6138,-79.393,43.6405,September,2017
+2017-06-05,The Queensway And Royal York Rd,Etobicoke York,6139,-79.5026,43.6263,June,2017
+2017-10-06,Lake Shore Blvd W And Strachan Ave / Remembrance Dr,Toronto and East York,6140,-79.4087,43.6344,October,2017
+2017-03-24,Lawrence Ave E And Markham Rd,Scarborough,6141,-79.2253,43.7598,March,2017
+2017-10-20,Jane St And Falstaff Ave / Gordon Mackay Rd,Etobicoke York,6142,-79.5072,43.7154,October,2017
+2017-03-14,Avenue Rd And Lawrence Ave W,North York,6143,-79.4156,43.7222,March,2017
+2017-03-24,Pharmacy Ave And Mcnicoll Ave,Scarborough,6145,-79.3307,43.8041,March,2017
+2017-08-11,Markham Rd And Progress Ave,Scarborough,6146,-79.2338,43.7817,August,2017
+2017-04-11,Markham Rd And Sheppard Ave E,Scarborough,6147,-79.2387,43.7938,April,2017
+2017-07-10,Don Mills Rd And Van Horne Ave,North York,6148,-79.353,43.7873,July,2017
+2017-03-10,Sheppard Ave E And Morningside Ave,Scarborough,6149,-79.1997,43.8019,March,2017
+2017-03-10,Morningside Ave And Milner Ave,Scarborough,6150,-79.199,43.8002,March,2017
+2017-09-28,Kennedy Rd And Mcnicoll Ave,Scarborough,6152,-79.3019,43.8121,September,2017
+2018-02-16,Markham Rd And Ellesmere Rd,Scarborough,6153,-79.2317,43.7764,February,2018
+2018-09-05,Bloor St W And Keele St / Parkside Dr,Toronto and East York,6154,-79.46,43.6547,September,2018
+2019-06-03,Eglinton Ave W And Scarlett Rd,Etobicoke York,6155,-79.5114,43.6839,June,2019
+2018-09-05,Steeles Ave W And Dufferin St,North York,6156,-79.47,43.7872,September,2018
+2018-11-28,Dufferin St And Dupont St,Toronto and East York,6157,-79.439,43.6684,November,2018
+2018-11-28,Bloor St W And Islington Ave,Etobicoke York,6158,-79.5234,43.6446,November,2018
+2019-03-01,Steeles Ave W And Highway 27,Etobicoke York,6159,-79.614,43.7554,March,2019
+2019-09-19,Sheppard Ave E And Don Mills Rd,North York,6160,-79.347,43.7751,September,2019
+2019-06-03,Steeles Ave W And Signet Dr / Old Weston Rd,Etobicoke York,6161,-79.5434,43.7709,June,2019
+2020-05-27,Kennedy Rd And Sheppard Ave E,Scarborough,6162,-79.2882,43.7832,May,2020
+2020-12-03,Bathurst St And Nina St,Toronto and East York,6163,-79.4169,43.6798,December,2020
+2021-04-07,Brimley Rd And Huntingwood Dr,Scarborough,6167,-79.2733,43.7984,April,2021
+2021-05-27,Brimley Rd And Progress Ave,Scarborough,6168,-79.2631,43.7752,May,2021
+2021-05-25,Kingston Rd And Brimley Rd / Brimley Rd S,Scarborough,6169,-79.2403,43.7182,May,2021
+2021-05-14,Lawrence Ave E And Scarborough Golf Club Rd,Scarborough,6170,-79.2158,43.7618,May,2021
+2021-06-30,Steeles Ave E And Markham Rd,Scarborough,6171,-79.2511,43.8365,June,2021
+2021-12-29,Steeles Ave W And Bathurst St,North York,6172,-79.4457,43.7924,December,2021
+2021-06-21,Strachan Ave And Wellington St W / Douro St,Toronto and East York,6173,-79.4114,43.6407,June,2021
+2021-06-21,University Ave And Dundas St W,Toronto and East York,6175,-79.3883,43.6547,June,2021
+2021-06-11,Warden Ave And Ellesmere Rd,Scarborough,6176,-79.3007,43.7611,June,2021
+2021-12-16,Warden Ave And Bridletowne Crcl,Scarborough,6177,-79.3138,43.7921,December,2021
+2021-04-07,Willowdale Ave And Bishop Ave,North York,6178,-79.4078,43.7834,April,2021
+2021-05-25,Cummer Ave And Willowdale Ave,North York,6180,-79.4099,43.7886,May,2021
+2021-05-27,Sheppard Ave E And Victoria Park Ave,North York,6181,-79.323,43.7752,May,2021
+2021-07-29,Bathurst St And Finch Ave W,North York,6182,-79.443,43.7738,July,2021
+2021-05-07,Finch Ave E And Don Mills Rd,North York,6183,-79.3547,43.7926,May,2021
+2021-03-05,Steeles Ave W And Jane St,Etobicoke York,6185,-79.5217,43.7754,March,2021
+2021-05-14,Sheppard Ave W And Jane St,Etobicoke York,6186,-79.5132,43.7393,May,2021
+2021-09-30,Lawrence Ave E And Midland Ave,Scarborough,6187,-79.265,43.7515,September,2021
+2021-08-27,Mccowan Rd And Ellesmere Rd,Scarborough,6188,-79.2514,43.7721,August,2021
+2021-06-11,Mccowan Rd And Brimorton Dr,Scarborough,6190,-79.2489,43.7654,June,2021
+2021-06-11,Highway 27 And Rexdale Blvd,Etobicoke York,6191,-79.5956,43.7172,June,2021
+2021-06-29,Bathurst St And Wilson Ave,North York,6192,-79.434,43.7373,June,2021
+2021-06-03,Jarvis St And Shuter St,Toronto and East York,6193,-79.3739,43.6553,June,2021
+2021-07-29,Lawrence Ave E And Greencrest Crct / Greenholm Crct,Scarborough,6194,-79.2229,43.7603,July,2021
+2021-06-29,Steeles Ave W And Martin Grove Rd,Etobicoke York,6195,-79.6033,43.7578,June,2021
+2021-09-13,Lake Shore Blvd W And Lower Simcoe St,Toronto and East York,6196,-79.3831,43.6403,September,2021
+2021-07-29,Martin Grove Rd And Belfield Rd,Etobicoke York,6197,-79.5756,43.7019,July,2021
+2021-06-03,Finch Ave E And Markham Rd,Scarborough,6198,-79.243,43.8129,June,2021
+2021-06-30,Finch Ave E And Warden Ave,Scarborough,6199,-79.3157,43.7967,June,2021
+2021-07-29,Lawrence Ave E And Pharmacy Ave,Scarborough,6200,-79.3046,43.7432,July,2021
+2021-06-23,Eglinton Ave E And Markham Rd,Scarborough,6203,-79.2189,43.7431,June,2021
+2021-04-27,St Clair Ave E And Danforth Rd,Scarborough,6205,-79.2599,43.7168,April,2021
+2021-08-16,Lawrence Ave E And Mccowan Rd,Scarborough,6206,-79.2454,43.7555,August,2021
+2021-06-23,Morningside Ave And 401 C W Morningside Ave N Ramp / Cinemart Dr,Scarborough,6207,-79.1977,43.7978,June,2021
+2021-06-03,Bellamy Rd N And Brimorton Dr,Scarborough,6208,-79.2391,43.7674,June,2021
+2021-07-29,Weston Rd And Fenmar Dr,Etobicoke York,6209,-79.5437,43.7574,July,2021
+2021-06-11,Markham Rd And Mcnicoll Ave,Scarborough,6210,-79.2478,43.8239,June,2021
+2021-06-23,Lawrence Ave E And Warden Ave,Scarborough,6211,-79.2947,43.7453,June,2021
+2021-08-16,Kipling Ave And Widdicombe Hill / Widdicombe Hill Blvd,Etobicoke York,6212,-79.5517,43.6789,August,2021
+2021-12-29,Sheppard Ave E And Warden Ave,Scarborough,6213,-79.3079,43.7787,December,2021
+2021-08-27,Lawrence Ave E And Brimley Rd,Scarborough,6214,-79.2553,43.7535,August,2021
+2021-06-29,William R Allen Rd And Sheppard Ave W,North York,6215,-79.4633,43.7502,June,2021
+2021-08-16,Midland Ave And Copthorne Ave / Passmore Ave,Scarborough,6216,-79.2949,43.8207,August,2021
+2021-09-13,Steeles Ave E And Don Mills Rd,North York,6219,-79.3607,43.8111,September,2021
+2021-11-09,Finch Ave E And Mccowan Rd,Scarborough,6222,-79.2665,43.808,November,2021
+2021-07-29,Steeles Ave W And Alness St,North York,6224,-79.481,43.7847,July,2021
+2021-12-29,Markham Rd And Mclevin Ave / Nugget Ave,Scarborough,6225,-79.241,43.7985,December,2021
+2021-08-27,Burnhamthorpe Rd And The West Mall,Etobicoke York,6227,-79.5672,43.6445,August,2021
+2021-09-27,Markham Rd And Milner Ave,Scarborough,6228,-79.237,43.7895,September,2021
+2021-12-29,Finch Ave W And Martin Grove Rd,Etobicoke York,6229,-79.5917,43.7367,December,2021
+2021-08-16,Jane St And St Clair Ave W,Etobicoke York,6230,-79.4917,43.6671,August,2021
+2021-09-30,Finch Ave E And Neilson Rd,Scarborough,6231,-79.2276,43.8162,September,2021
+2021-12-16,Lawrence Ave E And Howden Rd / Underwriters Rd,Scarborough,6232,-79.2879,43.7468,December,2021
+2021-11-09,Kennedy Rd And Finch Ave E,Scarborough,6234,-79.2965,43.8012,November,2021
+2021-08-27,Willowdale Ave And Spring Garden Ave,North York,6237,-79.4009,43.7663,August,2021
+2021-11-09,O Connor Dr And Sunrise Ave,North York,6238,-79.3044,43.7189,November,2021
+2021-09-30,Martin Grove Rd And Bethridge Rd,Etobicoke York,6239,-79.5782,43.7075,September,2021
+2021-09-27,Brimley Rd And Sheppard Ave E,Scarborough,6242,-79.2683,43.7875,September,2021
+2021-08-27,Markham Rd And Greencedar Crct / Greencrest Crct,Scarborough,6243,-79.2247,43.7578,August,2021
+2021-09-30,Evans Ave And Horner Ave,Etobicoke York,6246,-79.5188,43.6169,September,2021
+2021-10-21,Dundas St W And Royal York Rd / Private Access @ 275m East Of - Kingsway Mills Plaza,Etobicoke York,6248,-79.5135,43.6594,October,2021
+2021-11-09,Mccowan Rd And Alton Towers Crcl @ 210m South Of,Scarborough,6249,-79.2751,43.825,November,2021
+2021-12-16,Jane St And William Cragg Dr / Private Access @ 70m North Of - Sheridan Mall,Etobicoke York,6250,-79.5091,43.7229,December,2021
+2022-03-17,Neilson Rd And Military Trl,Scarborough,6251,-79.2083,43.7879,March,2022
+2022-03-17,O Connor Dr And Pape Ave,Toronto and East York,6255,-79.3502,43.6932,March,2022
+2022-03-30,Meadowvale Rd And Dean Park Rd / Generation Blvd,Scarborough,6256,-79.1687,43.8042,March,2022
+2022-03-17,Warden Ave And Huntingwood Dr,Scarborough,6264,-79.3109,43.7854,March,2022
