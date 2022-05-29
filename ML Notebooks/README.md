@@ -11,7 +11,7 @@ As major and more severe collisions occur infrequently compared to the whole sco
 
 ![Preprocessing Summary](../images/Preprocessing.png)
 
-## ML Interations & Results
+## ML Iterations & Results
 
 ![ML Results Summary](../images/ML_Steps1.png)
 
