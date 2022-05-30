@@ -36,7 +36,7 @@ In our machine leaning approach, we will be using classification models, random 
 
 ### Database
 
-We will be storing our data in Postgres.
+We will be storing our data in SQL Server.
 At present, we have created the ERD conceptual diagram for our database. But their is no releationship in those four columns. We did not force the relationship between the tables.
 For Primary key and Foriegn key, we didn't decide on that because out of four, only two tables has ACCNUM (accident number) column in common. 
 We are planning to create the relation in between the table based on their Geo location beacuse all the tables have geometry column in common.
