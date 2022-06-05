@@ -29,9 +29,11 @@ The traffic colision file provides a history of all accidents in the City of Tor
 In our machine leaning approach, we will be using classification models, random forest and gradient boosting, details can be found [here](https://github.com/barharding/Crash-Detectives/blob/main/ML%20Notebooks/README.md)
 
 
-### Initial ML Results
+### Initial ML Dashboard
 
 ![ML Results Summary](images/ML_Steps1.png)
+
+![ML Dashboard](images/ML_dashboard.png)
 
 
 ### Database
