@@ -44,7 +44,8 @@ We are planning to create the relation in between the table based on their Geo l
 ### Dashboard
 
 The storyboard is shown as a preview in the presentation. </br>
-The dashboard is located [here](https://public.tableau.com/views/Roadaccidents_Toronto_viz/TheCrashdetectivesstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+The dashboard is located [here](https://public.tableau.com/views/Roadaccidents_Toronto_viz/TheCrashdetectivesstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) </br>
+[and here](https://public.tableau.com/app/profile/richelle.qin/viz/CrashDetective-TorontoViz/Story?publish=yes)
 
 
 ## Project Team Members
