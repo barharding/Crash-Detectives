@@ -31,9 +31,9 @@ In our machine leaning approach, we will be using classification models, random 
 
 ### Initial ML Dashboard
 
-![ML Results Summary](images/ML_Steps1.png)
+![ML Results Summary](images/ML_Steps.png)
 
-![ML Dashboard](images/ML_dashboard.png)
+![ML Dashboard](images/ML_dashboard1.png)
 
 
 ### Database
@@ -44,8 +44,7 @@ We are planning to create the relation in between the table based on their Geo l
 ### Dashboard
 
 The storyboard is shown as a preview in the presentation. </br>
-The dashboard is located [here](https://public.tableau.com/views/Roadaccidents_Toronto_viz/TheCrashdetectivesstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) </br>
-[and here](https://public.tableau.com/app/profile/richelle.qin/viz/CrashDetective-TorontoViz/Story?publish=yes)
+The dashboard is located [here](https://public.tableau.com/app/profile/richelle.qin/viz/CrashDetective-TorontoViz/Summary)
 
 
 ## Project Team Members
