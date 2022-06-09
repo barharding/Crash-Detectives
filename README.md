@@ -25,27 +25,28 @@ The traffic colision file provides a history of all accidents in the City of Tor
 - Red light cameras data : [Dataset 2](https://open.toronto.ca/dataset/red-light-cameras/)
 - Traffic collision data : [Dataset 3](https://open.toronto.ca/dataset/police-annual-statistical-report-traffic-collisions/) 
 
-## Machine Learning
-In our machine leaning approach, we will be using classification models, random forest and gradient boosting, details can be found [here](https://github.com/barharding/Crash-Detectives/blob/main/ML%20Notebooks/README.md)
-
-
-### Initial ML Dashboard
-
-![ML Results Summary](images/ML_Steps.png)
-
-![ML Dashboard](images/ML_dashboard1.png)
-
-
-### Database
+## Database
 
 We will be storing our data in SQL Server.
 We are planning to create the relation in between the table based on their Geo location beacuse all the tables have geometry column in common.
    
-### Dashboard
+## Dashboard
 
 The storyboard is shown as a preview in the presentation. </br>
 The dashboard is located [here](https://public.tableau.com/app/profile/richelle.qin/viz/CrashDetective-TorontoViz/Summary)
 
+## Presentation
+Our presentation can be found [here](https://docs.google.com/presentation/d/11Cdfst8z82M0cWLzOOcvONecABzu54ZC8qCSn3h5Kr0/edit?usp=sharing)
+
+## Machine Learning
+In our machine leaning approach, we will be using classification models, random forest and gradient boosting, details can be found [here](https://github.com/barharding/Crash-Detectives/blob/main/ML%20Notebooks/README.md)
+
+
+### ML Steps & Results
+
+![ML Results Summary](images/ML_Steps.png)
+
+![ML Dashboard](images/ML_dashboard1.png)
 
 ## Project Team Members
 - Aditi
